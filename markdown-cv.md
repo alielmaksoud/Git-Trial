@@ -61,6 +61,41 @@ _____________________
 
   Greet customers, take food orders, and bring food and drinks to the tables and take payment and make change. Servicing The Guest in a friendly, efficient manner while maintaining a clean and safe work environment.
 
+ 
+**SKILLS**
+_______________
+
+* #### Computer Competence:
+
+   c++,c#,python, java, Oracle, SQL, html,css, PHP, javascript, database, arch linux, and all datatype. 
+
+* #### Job-Related Skills:
+
+    * Stronger professional skills
+    * Communication skills 
+    * Team work 
+    * Negotiation and persuasion
+    * Leadership
+    * Perseverance and motivation 
+    * Ability to work under pressure
+    * Confidence
+    * Critical thinking
+    * Time managment 
+
+* #### Personal Skills:
+
+   * Cooperation
+   * Detail oriented
+   * Passion
+   * Ambition
+   * Creative
+   * Efficiency
+   * Honesty
+   * Patience
+   * Loyal
+   * Responsible
+   * Sociable
+
 
 **ADDITIONAL INFORMATION**
 _______________________________
